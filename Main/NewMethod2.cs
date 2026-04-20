@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Main
 {
-    internal class _6_10
+    internal class NewMethod2
     {
     }
 }

@@ -12,11 +12,11 @@ internal class Program
         while(!int.TryParse(Console.ReadLine(), out count))
             Console.Write("Ошибка ввода, повторите попытку: ");
 
-        NewMethod.GenWrite(path1, path2, count);
-        Console.WriteLine("Разность макс и мин = " + NewMethod.GetDiff(path1));
-        Console.WriteLine("Минимальное число = " + NewMethod.GetMin(path2));
+        NewMethod1.GenWrite1(path1, count);
+        NewMethod1.GetWrite2(path2, count);
 
-        //NewMethod.GetWrite2(path2, count);
+        Console.WriteLine("Разность макс и мин = " + NewMethod1.GetDiff(path1));
+        Console.WriteLine("Минимальное число = " + NewMethod1.GetMin(path2));
 
         
     }
