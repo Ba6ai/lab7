@@ -47,8 +47,10 @@ namespace ex1
             while ((s = readFile.ReadLine()) != null)
             {
                 int current = int.Parse(s);
-                if( current < min ) min = current;
-                if( current > max ) max = current;
+                if( current < min ) 
+                    min = current;
+                if( current > max ) 
+                    max = current;
             }
             readFile.Close();
             return max - min;
@@ -112,6 +114,98 @@ namespace ex1
 
             readFile.Close();
             return min;
+        }
+
+        public static void Copy(string path3, string path3_2, char str)
+        {
+            StreamReader readFile;
+            StreamWriter writeFile;
+            string s;
+            bool a = false;
+
+            try
+            {
+                readFile = new StreamReader(path3);
+                writeFile = new StreamWriter(path3_2);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return;
+            }
+            while ((s = readFile.ReadLine()) != null)
+            {
+                if (s.Length > 0 && char.ToLower(s[0]) == char.ToLower(str))
+                {
+                    writeFile.WriteLine(s);
+                    a = true;
+                }
+            }
+            if (!a) 
+                Console.WriteLine("Строки на букву " + str + " - не найдены");
+            else 
+                Console.WriteLine("Все строки на букву " + str + " - записаны");
+
+            readFile.Close();
+            writeFile.Close();
+        }
+
+        public static void GenBin(string path4, int bin)
+        {
+            BinaryWriter binaryWriter;
+
+            Random rnd = new Random();
+            
+            try
+            {
+                binaryWriter = new BinaryWriter(File.Open(path4, FileMode.Create));
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e);
+                return;
+            }
+            for (int i = 0; i < bin; i++)
+            {
+                binaryWriter.Write(rnd.Next(1, 100));
+            }
+
+            binaryWriter.Close();
+        }
+
+        public static void ReadBin(string path4, string path4_2, int m, int n)
+        {
+            BinaryReader binaryReader;
+            BinaryWriter binaryResylt;
+            bool a = false;
+
+            try
+            {
+                binaryReader = new BinaryReader(File.Open(path4, FileMode.Open));
+                binaryResylt = new BinaryWriter(File.Open(path4_2, FileMode.Create));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                return;
+            }
+            while (binaryReader.BaseStream.Position < binaryReader.BaseStream.Length)
+            {
+                int num = binaryReader.ReadInt32();
+                if (num % m == 0 && num % n != 0)
+                {
+                    binaryResylt.Write(num);
+                    a = true;
+                }
+            }
+            if (!a)
+                Console.WriteLine("Бинарные числа не подошли под цифры: " + n + " " + m);
+            else
+                Console.WriteLine("Бинарные числа добавлены.");
+
+
+            binaryResylt.Close();
+            binaryReader.Close();
         }
     }
 }

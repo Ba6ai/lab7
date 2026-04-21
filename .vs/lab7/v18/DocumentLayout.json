@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\newmethod1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\ex2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\ex2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\ex1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\ex1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\newmethod2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\newmethod2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,39 +21,20 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 76,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ex2.txt",
-              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex2.txt",
-              "RelativeDocumentMoniker": "Main\\ex2.txt",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex2.txt",
-              "RelativeToolTip": "Main\\ex2.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-20T15:05:41.311Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
           "DockedWidth": 324,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ex1.txt",
-              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex1.txt",
-              "RelativeDocumentMoniker": "Main\\ex1.txt",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex1.txt",
-              "RelativeToolTip": "Main\\ex1.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-20T15:05:39.786Z",
+              "Title": "NewMethod2.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod2.cs",
+              "RelativeDocumentMoniker": "Main\\NewMethod2.cs",
+              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod2.cs",
+              "RelativeToolTip": "Main\\NewMethod2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:19:27.651Z",
               "EditorCaption": ""
             },
             {
@@ -68,20 +45,20 @@
               "RelativeDocumentMoniker": "Main\\NewMethod1.cs",
               "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod1.cs",
               "RelativeToolTip": "Main\\NewMethod1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALkAAAAAAAAAAAAuwLQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:09:06.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
               "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\Program.cs",
               "RelativeToolTip": "Main\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:02:47.659Z",
               "EditorCaption": ""
