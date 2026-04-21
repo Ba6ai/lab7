@@ -199,7 +199,7 @@ namespace ex1
                 }
             }
             if (!a)
-                Console.WriteLine("Бинарные числа не подошли под цифры: " + n + " " + m);
+                Console.WriteLine("Бинарные числа не подошли под цифры: " + m + " " + n);
             else
                 Console.WriteLine("Бинарные числа добавлены.");
 

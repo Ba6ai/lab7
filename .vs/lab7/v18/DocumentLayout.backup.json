@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\newmethod2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\newmethod2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\newmethod1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\newmethod1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\ex3_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\ex3_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\ex2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\ex2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\ex3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\ex3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\ex1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\ex1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 324,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ex3.txt",
-              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex3.txt",
-              "RelativeDocumentMoniker": "Main\\ex3.txt",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex3.txt",
-              "RelativeToolTip": "Main\\ex3.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-21T14:05:06.224Z",
+              "DocumentIndex": 0,
+              "Title": "NewMethod2.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod2.cs",
+              "RelativeDocumentMoniker": "Main\\NewMethod2.cs",
+              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod2.cs*",
+              "RelativeToolTip": "Main\\NewMethod2.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:19:27.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ex3_2.txt",
-              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex3_2.txt",
-              "RelativeDocumentMoniker": "Main\\ex3_2.txt",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex3_2.txt",
-              "RelativeToolTip": "Main\\ex3_2.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-21T14:04:56.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ex2.txt",
-              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex2.txt",
-              "RelativeDocumentMoniker": "Main\\ex2.txt",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex2.txt",
-              "RelativeToolTip": "Main\\ex2.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-20T15:05:41.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ex1.txt",
-              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex1.txt",
-              "RelativeDocumentMoniker": "Main\\ex1.txt",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\ex1.txt",
-              "RelativeToolTip": "Main\\ex1.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-20T15:05:39.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "NewMethod1.cs",
               "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod1.cs",
               "RelativeDocumentMoniker": "Main\\NewMethod1.cs",
               "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod1.cs",
               "RelativeToolTip": "Main\\NewMethod1.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAmwLQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAmwMkAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:09:06.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\Program.cs*",
-              "RelativeToolTip": "Main\\Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAA8AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:02:47.659Z",
               "EditorCaption": ""
