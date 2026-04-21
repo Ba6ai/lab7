@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\newmethod2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\newmethod1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\newmethod1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|c:\\users\\elise\\onedrive\\\u0443\u043D\u0438\u043A\\2\u043A\u0443\u0440\u0441\\2\\\u044F\u043F\\kt3\\lab7\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85AB868-E888-4E0D-AE3D-3380F26BA036}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "Main\\NewMethod2.cs",
               "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod2.cs",
               "RelativeToolTip": "Main\\NewMethod2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T16:19:27.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NewMethod1.cs",
               "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod1.cs",
               "RelativeDocumentMoniker": "Main\\NewMethod1.cs",
               "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\NewMethod1.cs",
               "RelativeToolTip": "Main\\NewMethod1.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAmwMkAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:09:06.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
               "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\2\u041A\u0443\u0440\u0441\\2\\\u042F\u041F\\kt3\\lab7\\Main\\Program.cs",
               "RelativeToolTip": "Main\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:02:47.659Z",
               "EditorCaption": ""
