@@ -32,7 +32,7 @@ namespace ex1
         {
             int min = int.MaxValue;
             int max = int.MinValue;
-            string s;
+            string s = "";
 
             StreamReader readFile;
             try
@@ -47,10 +47,14 @@ namespace ex1
             while ((s = readFile.ReadLine()) != null)
             {
                 int current = int.Parse(s);
-                if( current < min ) 
+                if (current < min)
+                {
                     min = current;
-                if( current > max ) 
+                }
+                if (current > max)
+                {
                     max = current;
+                }
             }
             readFile.Close();
             return max - min;
@@ -75,7 +79,9 @@ namespace ex1
             {
                 writeFile.Write(rnd.Next(0, 100) + " ");
                 if (x % rnd.Next(1, 15) == 0)
+                {
                     writeFile.WriteLine();
+                }
                 x++;
             }
             writeFile.Close();
@@ -84,7 +90,7 @@ namespace ex1
         public static int GetMin(string path2)
         {
             int min = int.MaxValue;
-            string s;
+            string s = "";
             StreamReader readFile;
 
             try
@@ -107,7 +113,9 @@ namespace ex1
                     {
                         int current = int.Parse(item);
                         if (current < min)
+                        {
                             min = current;
+                        }
                     }
                 }
             }
@@ -120,7 +128,7 @@ namespace ex1
         {
             StreamReader readFile;
             StreamWriter writeFile;
-            string s;
+            string s = "";
             bool a = false;
 
             try
@@ -141,12 +149,16 @@ namespace ex1
                     a = true;
                 }
             }
-            if (!a) 
+            if (!a)
+            {
                 Console.WriteLine("Строки на букву " + str + " - не найдены");
-            else 
+            }
+            else
+            {
                 Console.WriteLine("Все строки на букву " + str + " - записаны");
+            }
 
-            readFile.Close();
+                readFile.Close();
             writeFile.Close();
         }
 
@@ -199,9 +211,13 @@ namespace ex1
                 }
             }
             if (!a)
+            {
                 Console.WriteLine("Бинарные числа не подошли под цифры: " + m + " " + n);
+            }
             else
+            {
                 Console.WriteLine("Бинарные числа добавлены.");
+            }
 
 
             binaryResylt.Close();

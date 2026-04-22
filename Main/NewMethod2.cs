@@ -3,10 +3,14 @@ namespace ex1
 {
     internal class NewMethod2
     {
+        public static void ListEntered()
+        {
+            List<int> list = new List<int>();
+        }
         public static void ListCopy()
         {
-            List<int> list1 = new List<int>() { 10, 20, 30, 40};
-            List<int> list2 = new List<int>() { 6, 15, 16, 35, 60 };
+            List<> list1 = new List() { 10, 20, 30, 40};
+            List<int> list2 = new List<int>() { 6, 15, 25, 35, 60 };
 
             Console.Write("\nСписок 1 = ");
             for (int i = 0; i < list1.Count; i++)
