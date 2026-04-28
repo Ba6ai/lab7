@@ -3,26 +3,22 @@ namespace ex1
 {
     internal class NewMethod2
     {
-        public static void ListEntered()
+        public static List<int> CreateList(int count)
         {
             List<int> list = new List<int>();
+            Random rnd = new Random();
+
+            for (int i = 0; i < count; i++)
+            {
+                list.Add(rnd.Next(1, 20));
+            }
+
+            list.Sort();
+            return list;
         }
-        public static void ListCopy()
+
+        public static List<int> ListCopy(List<int> list1, List<int> list2)
         {
-            List<> list1 = new List() { 10, 20, 30, 40};
-            List<int> list2 = new List<int>() { 6, 15, 25, 35, 60 };
-
-            Console.Write("\nСписок 1 = ");
-            for (int i = 0; i < list1.Count; i++)
-            {
-                Console.Write(list1[i] + " ");
-            }
-            Console.Write("\nСписок 2 = ");
-            for (int i = 0; i < list2.Count; i++)
-            {
-                Console.Write(list2[i] + " ");
-            }
-
             for (int i = 0; i < list2.Count; i++)
             {
                 bool b = false;
@@ -36,12 +32,18 @@ namespace ex1
                     }
                 }
                 if (!b)
+                {
                     list1.Add(list2[i]);
+                }
             }
-            Console.Write("\nОбновлённый список 1 = ");
-            for (int i = 0; i < list1.Count; i++)
+            return list1;
+        }
+
+        public static void Print(List<int> list)
+        {        
+            for (int i = 0; i < list.Count; i++)
             {
-                Console.Write(list1[i] + " ");
+                Console.Write(list[i] + " ");
             }
         }
     }

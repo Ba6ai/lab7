@@ -44,11 +44,31 @@ internal class Program
         NewMethod1.ReadBin(path4, path4_2, m, n);
 
 
-        //NewMethod2.ListCopy();
+        List<int> L1 = new List<int>();
+        List<int> L2 = new List<int>();
 
-        Console.Write("Введите количество пассажиров: ");
+        Console.Write("\nВведите количество элементов в списке 1: ");
         count = EnterNum();
-        NewMethod1.GenPass(path5, count);
+        L1 = NewMethod2.CreateList(count);
+        Console.Write("Список 1 = ");
+        NewMethod2.Print(L1);
+
+        Console.Write("\nВведите количество элементов в списке 2: ");
+        count = EnterNum();       
+        L2 = NewMethod2.CreateList(count);
+        Console.Write("Список 2 = ");
+        NewMethod2.Print(L2);
+
+        NewMethod2.ListCopy(L1, L2);
+
+        Console.WriteLine("\nОбновлённый список 1:");
+        NewMethod2.Print(L1);
+        
+
+
+        //Console.Write("Введите количество пассажиров: ");
+        //count = EnterNum();
+        //NewMethod1.GenPass(path5, count);
     }
 
     private static int EnterNum()
