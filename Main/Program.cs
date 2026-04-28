@@ -16,6 +16,7 @@ internal class Program
         string path3_2 = "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt3\\lab7\\Main\\ex3_2.txt";
         string path4 = "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt3\\lab7\\Main\\ex4.txt";
         string path4_2 = "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt3\\lab7\\Main\\ex4_2.txt";
+        string path5 = "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt3\\lab7\\Main\\ex5.txt";
 
         Console.Write("Введите количество элеметов: ");
         count = EnterNum();
@@ -43,7 +44,11 @@ internal class Program
         NewMethod1.ReadBin(path4, path4_2, m, n);
 
 
-        NewMethod2.ListCopy();
+        //NewMethod2.ListCopy();
+
+        Console.Write("Введите количество пассажиров: ");
+        count = EnterNum();
+        NewMethod1.GenPass(path5, count);
     }
 
     private static int EnterNum()

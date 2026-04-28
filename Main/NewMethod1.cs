@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Xml.Serialization;
 
 namespace ex1
 {
@@ -222,6 +223,36 @@ namespace ex1
 
             binaryResylt.Close();
             binaryReader.Close();
+        }
+
+        public struct Pass
+        {
+            public string Name
+            {
+                get;
+                set;
+            }
+            public int Weight
+            {
+                get;
+                set;
+            }
+        }
+        public static void GenPass(string path5, int count)
+        {
+            Pass[] passanger = new Pass[count];
+            Random rnd = new Random();
+
+            for (int i = 0; i < count; i++)
+            {
+                passanger[i] = new Pass() 
+                {
+                    Name = "Чемодан" + i,
+                    Weight = rnd.Next(1, 50)
+                };
+            }
+
+            XmlSerializer serializer = new XmlSerializer(typeof(Pass));
         }
     }
 }
