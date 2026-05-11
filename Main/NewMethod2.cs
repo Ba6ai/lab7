@@ -3,7 +3,7 @@ namespace ex1
 {
     internal class NewMethod2
     {
-        public static List<int> CreateList(int count)
+        public static List<int> CreateList(int count) 
         {
             List<int> list = new List<int>();
             Random rnd = new Random();
@@ -17,14 +17,14 @@ namespace ex1
             return list;
         }
 
-        public static List<int> ListCopy(List<int> list1, List<int> list2)
+        public static List<T> ListCopy<T>(List<T> list1, List<T> list2) where T : IComparable<T>
         {
             for (int i = 0; i < list2.Count; i++)
             {
                 bool b = false;
                 for (int j = 0; j < list1.Count; j++)
                 {
-                    if (list2[i] < list1[j])
+                    if (list2[i].CompareTo(list1[j]) < 0)
                     {
                         list1.Insert(j, list2[i]);
                         b = true;
@@ -39,7 +39,7 @@ namespace ex1
             return list1;
         }
 
-        public static void Print(List<int> list)
+        public static void Print<T>(List<T> list)
         {        
             for (int i = 0; i < list.Count; i++)
             {
